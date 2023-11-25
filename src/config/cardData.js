@@ -105,17 +105,17 @@ export default {
     //   name: "Nickelodeon All Star Brawl",
     //   url: "https://cdn.akamai.steamstatic.com/steam/apps/1414850/capsule_616x353.jpg?t=1655458501",
     // },
-    {
-      id: 22,
-      name: "Taiko no Tatsujin: Rhythm Festival",
-      url: "https://assets-prd.ignimgs.com/2022/02/12/taiko-no-tatsujin-rhythm-festival-button-1644624408460.jpg",
-    },
-    {
-      id: 23,
-      name: "Mario Party Superstars",
-      url: "https://mario.wiki.gallery/images/thumb/5/5a/Mario_Party_Superstars_North_American_box_art.jpg/800px-Mario_Party_Superstars_North_American_box_art.jpg",
-      flipped: true
-    },
+    // {
+    //   id: 22,
+    //   name: "Taiko no Tatsujin: Rhythm Festival",
+    //   url: "https://assets-prd.ignimgs.com/2022/02/12/taiko-no-tatsujin-rhythm-festival-button-1644624408460.jpg",
+    // },
+    // {
+    //   id: 23,
+    //   name: "Mario Party Superstars",
+    //   url: "https://mario.wiki.gallery/images/thumb/5/5a/Mario_Party_Superstars_North_American_box_art.jpg/800px-Mario_Party_Superstars_North_American_box_art.jpg",
+    //   flipped: true,
+    // },
     // {
     //   id: 24,
     //   name: "Naruto Ultimate Ninja Storm 4",
@@ -126,11 +126,11 @@ export default {
     //   name: "Celeste",
     //   url: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Celeste_box_art_full.png",
     // },
-    {
-      id: 26,
-      name: "Super Mario Odyssey",
-      url: "https://assets.nintendo.eu/image/upload/f_auto/q_auto/t_product_tile_desktop/v1/MNS/NOE/70010000000127/SQ_NSwitch_SuperMarioOdyssey_HomepageWithOverlay?_a=ATAK9AA0",
-    },
+    // {
+    //   id: 26,
+    //   name: "Super Mario Odyssey",
+    //   url: "https://assets.nintendo.eu/image/upload/f_auto/q_auto/t_product_tile_desktop/v1/MNS/NOE/70010000000127/SQ_NSwitch_SuperMarioOdyssey_HomepageWithOverlay?_a=ATAK9AA0",
+    // },
     // {
     //   id: 27,
     //   name: "Hyrule Warriors: Age of Calamity",
@@ -161,11 +161,11 @@ export default {
     //   name: "The Legend of Zelda: Breath of the Wild",
     //   url: "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
     // },
-    {
-      id: 33,
-      name: "Fortnite",
-      url: "https://image.api.playstation.com/vulcan/ap/rnd/202303/0621/d3c11818a78c6495e84a3d8e8dd6dc652721be36e0eb8c0a.png",
-    },
+    // {
+    //   id: 33,
+    //   name: "Fortnite",
+    //   url: "https://image.api.playstation.com/vulcan/ap/rnd/202303/0621/d3c11818a78c6495e84a3d8e8dd6dc652721be36e0eb8c0a.png",
+    // },
     // {
     //   id: 34,
     //   name: "Overwatch 2",
@@ -211,40 +211,55 @@ export default {
     //   name: "Bravely Default II",
     //   url: "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_BravelyDefaultII_image1600w.jpg",
     // },
+    // {
+    //   id: 42,
+    //   name: "Advance Wars",
+    //   url: "https://cdn.vox-cdn.com/thumbor/12hc8lo4NYj5TI4K-JuRHwYMpvk=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24594598/Advance_Wars_1_2_Re_BootCamp_artwork_13.jpg",
+    // },
+    // {
+    //   id: 43,
+    //   name: "Undertale",
+    //   url: "https://assetsio.reedpopcdn.com/undertale-review-1503040409667.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+    // },
+    // {
+    //   id: 44,
+    //   name: "Vampire Survivors",
+    //   url: "https://images.immediate.co.uk/production/volatile/sites/3/2023/07/Vampire-Survivors3-c388efb.jpg?quality=90&resize=980,654",
+    // },
+    // {
+    //   id: 45,
+    //   name: "Prison Architect",
+    //   url: "https://cdn.cloudflare.steamstatic.com/steam/apps/233450/capsule_616x353.jpg?t=1684242226",
+    // },
+    // {
+    //   id: 46,
+    //   name: "Watch Dogs 2",
+    //   url: "https://image.api.playstation.com/cdn/UP0001/CUSA04459_00/qBxvfDJJ9dbavai6xsWOcWaxRDGRb7h0.png",
+    // },
+    // {
+    //   id: 47,
+    //   name: "Roller Coaster Tycoon 3",
+    //   url: "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
+    // },
+    // {
+    //   id: 48,
+    //   name: "Pokémon Stadium 2",
+    //   url: "https://assets-prd.ignimgs.com/2022/01/07/pokemon-stadium-2-1641579254402.jpg",
+    // },
     {
-      id: 42,
-      name: "Advance Wars",
-      url: "https://cdn.vox-cdn.com/thumbor/12hc8lo4NYj5TI4K-JuRHwYMpvk=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24594598/Advance_Wars_1_2_Re_BootCamp_artwork_13.jpg",
+      id: 49,
+      name: "Super Mario 3D World",
+      url: "https://m.media-amazon.com/images/I/81BTFAri4RL.jpg",
     },
     {
-      id: 43,
-      name: "Undertale",
-      url: "https://assetsio.reedpopcdn.com/undertale-review-1503040409667.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+      id: 50,
+      name: "Super Mario Wonder",
+      url: "https://assets.nintendo.eu/image/private/f_auto,c_limit,w_1920,q_75/t_product_tile_mobile/c3xukvuam2iashmxvn4b",
     },
     {
-      id: 44,
-      name: "Vampire Survivors",
-      url: "https://images.immediate.co.uk/production/volatile/sites/3/2023/07/Vampire-Survivors3-c388efb.jpg?quality=90&resize=980,654",
-    },
-    {
-      id: 45,
-      name: "Prison Architect",
-      url: "https://cdn.cloudflare.steamstatic.com/steam/apps/233450/capsule_616x353.jpg?t=1684242226",
-    },
-    {
-      id: 46,
-      name: "Watch Dogs 2",
-      url: "https://image.api.playstation.com/cdn/UP0001/CUSA04459_00/qBxvfDJJ9dbavai6xsWOcWaxRDGRb7h0.png",
-    },
-    {
-      id: 47,
-      name: "Roller Coaster Tycoon 3",
-      url: "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
-    },
-    {
-      id: 48,
-      name: "Pokémon Stadium 2",
-      url: "https://assets-prd.ignimgs.com/2022/01/07/pokemon-stadium-2-1641579254402.jpg",
+      id: 51,
+      name: "Lego Star Wars: The Skywalker Saga",
+      url: "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_LegoStarWarsTheSkywalkerSaga_image1600w.jpg",
     },
   ],
 };
