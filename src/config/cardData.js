@@ -20,11 +20,11 @@ export default {
     //   name: "Rhythm Heaven",
     //   url: "https://m.media-amazon.com/images/I/81B3dhFK-nL._AC_SL1500_.jpg",
     // },
-    {
-      id: 5,
-      name: "Mario Kart 8",
-      url: "https://m.media-amazon.com/images/I/81ug7V-li4L._AC_SL1500_.jpg",
-    },
+    // {
+    //   id: 5,
+    //   name: "Mario Kart 8",
+    //   url: "https://m.media-amazon.com/images/I/81ug7V-li4L._AC_SL1500_.jpg",
+    // },
     // {
     //   id: 6,
     //   name: "Taiko no Tatsujin",
@@ -256,10 +256,28 @@ export default {
       name: "Super Mario Wonder",
       url: "https://assets.nintendo.eu/image/private/f_auto,c_limit,w_1920,q_75/t_product_tile_mobile/c3xukvuam2iashmxvn4b",
     },
+    // {
+    //   id: 51,
+    //   name: "Lego Star Wars: The Skywalker Saga",
+    //   url: "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_LegoStarWarsTheSkywalkerSaga_image1600w.jpg",
+    // },
     {
-      id: 51,
-      name: "Lego Star Wars: The Skywalker Saga",
-      url: "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_LegoStarWarsTheSkywalkerSaga_image1600w.jpg",
+      type: "gold",
+      id: 52,
+      name: "Head Bangers: Rhythm Royale",
+      url: "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_HeadbangersRhythmRoyale_image1600w.jpg",
+    },
+    {
+      type: "gold",
+      id: 53,
+      name: "Trombone Champ",
+      url: "https://images.nintendolife.com/f3b8bdcd2afd3/trombone-champ-cover.cover_large.jpg",
+    },
+    {
+      type: "gold",
+      id: 54,
+      name: "WarioWare: Move It!",
+      url: "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_WarioWareMoveIt_image1600w.jpg",
     },
   ],
 };
